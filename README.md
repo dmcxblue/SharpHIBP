@@ -52,7 +52,7 @@ Email: example@google.com
 
 File list Usage:
 You can pass it a file containing a list of emails as well the thread has been set by default each 7 seconds so to not get timed out this is based on the PWNED 1 Subscription
-[! Tip]
+[!TIP]
 > This also has a Verbose Method
 ```
 C:> SharpHIBP.exe --api [API KEY] --file emails.txt
